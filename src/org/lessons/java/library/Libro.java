@@ -70,6 +70,6 @@ public class Libro {
 		return "Title: " + getTitle() + " | " +
 				"Page number: " + getNumberOfPages() + " | " +
 				"Author: " + getAuthor() + " | " +
-				"Publisher: " + getPublisher();
+				"Publisher: " + getPublisher() + " | " ;
 	}
 }
